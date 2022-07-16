@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-geek/static/css/main.af5f2a0a.chunk.css",
+    "main.js": "/movie-geek/static/js/main.e614d54c.chunk.js",
+    "main.js.map": "/movie-geek/static/js/main.e614d54c.chunk.js.map",
+    "runtime-main.js": "/movie-geek/static/js/runtime-main.53478c9b.js",
+    "runtime-main.js.map": "/movie-geek/static/js/runtime-main.53478c9b.js.map",
+    "static/js/2.99fe8db8.chunk.js": "/movie-geek/static/js/2.99fe8db8.chunk.js",
+    "static/js/2.99fe8db8.chunk.js.map": "/movie-geek/static/js/2.99fe8db8.chunk.js.map",
+    "index.html": "/movie-geek/index.html",
+    "static/css/main.af5f2a0a.chunk.css.map": "/movie-geek/static/css/main.af5f2a0a.chunk.css.map",
+    "static/js/2.99fe8db8.chunk.js.LICENSE.txt": "/movie-geek/static/js/2.99fe8db8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53478c9b.js",
+    "static/js/2.99fe8db8.chunk.js",
+    "static/css/main.af5f2a0a.chunk.css",
+    "static/js/main.e614d54c.chunk.js"
+  ]
+}
